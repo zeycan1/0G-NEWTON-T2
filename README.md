@@ -1,4 +1,4 @@
-<h1 align="center"> 0G
+<h1 align="center"> 0G NEWTON T2
 
 ![image](https://github.com/molla202/0G/assets/91562185/6eca238f-cd35-411b-9c5a-857fbd80dd33)
 
